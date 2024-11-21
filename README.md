@@ -4,3 +4,5 @@ as new concepts are learnt.
 
 The focus of the first iteration is on HTML structure to feature headings,
 paragraphs, links, images, lists etc.
+
+The use of Git is practised while building this project.
