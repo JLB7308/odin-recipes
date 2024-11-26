@@ -1,0 +1,36 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+
+.menu, .recipe-item {
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    line-height: 2rem;
+    
+}
+
+.recipe-item:hover {
+    background-color: rgb(255, 251, 0);
+    color: black;
+    font-size: 19px;
+}
+
+.recipe-item:visited {
+    color: grey;
+}
+
+.title {
+    text-align: center;
+    color: darkred;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
